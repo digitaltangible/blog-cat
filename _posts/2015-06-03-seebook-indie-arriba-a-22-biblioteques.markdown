@@ -14,8 +14,6 @@ tags:
 - Seebook Indie
 ---
 
-(Versió en castellà [aquí](https://seebookblog.wordpress.com/2015/06/03/nuestros-seebook-indie-ya-estan-en-22-bibliotecas/))
-
 Fa unes setmanes vam anunciar [aquí ](https://seebookblog.wordpress.com/2015/02/09/seebook-estableix-una-alianca-amb-les-biblioteques-catalanes/)l'acord de continuïtat del nostre projecte de portar noves veus literàries a les biblioteques públiques mitjançant les nostres targetes de descàrrega d'ebooks “[Seebook Indie](http://www.slideshare.net/digitaltangible/seebook-para-autores)”. Doncs bé, el passat dijous 28 de maig va tenir lloc a la[ Biblioteca El Clot-Josep Benet](http://w110.bcn.cat/portal/site/Biblioteques/menuitem.95987d47df85c50972e072e0a2ef8a0c/?vgnextoid=09db4a64f7d71410VgnVCM1000001947900aRCRD&vgnextchannel=09db4a64f7d71410VgnVCM1000001947900aRCRD&lang=ca_ES) la presentació oficial dels sis autors que participaran en aquesta nova edició de primavera/estiu del projecte. En aquesta entrada us presentem els autors i les seves obres:
 
 [![Presentación Seebook Indie en Bib. El Clot Josep Benet](https://seebookblog.files.wordpress.com/2015/06/img_5138.jpg?w=300)](https://seebookblog.files.wordpress.com/2015/06/img_5138.jpg)

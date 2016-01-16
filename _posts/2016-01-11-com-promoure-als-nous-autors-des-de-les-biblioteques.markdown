@@ -15,7 +15,11 @@ Que les biblioteques són un servei públic imprescindible per posar a l'abast d
 Des de [Seebook ](http://www.seebook.eu/)li havíem donat moltes voltes. Vam fer visites a biblioteques, presentacions ... i com tantes vegades la solució estava davant nostre, tan visible i amb una presència tan aclaparadora que passava desapercebuda: els punts de llibre! Aquestes tires de paper que acompanyen els llibres que traiem en préstec i que compleixen una funció doble: ens ajuden a saber on deixem la lectura i ens recorden la data en la qual hem tornar-lo. Us sona?
 
 ![1](https://seebookblog.files.wordpress.com/2016/01/1.png)
-**Per què no convertir els punts de llibre del préstec en la via per descobrir els milers d'històries interessants que els nous autors ens poden explicar?** Les [Biblioteques de Barcelona](http://www.bcn.cat/biblioteques/), ​​que sempre han estat un exemple d'innovació i voluntat de servei i amb les quals ja havíem treballat molt satisfactòriament en [projectes anteriors](http://seebook-blog.eu/2015/06/03/seebook-indie-arriba-a-22-biblioteques/), han acceptat el nostre repte i seran les primeres que utilitzaran [el punt de llibre Seebook ](http://www.slideshare.net/digitaltangible/marketing-offline-para-escritores-marcapginas-33-de-seebook?qid=46d18ad6-522b-4830-b544-c442b3325e40&v=default&b=&from_search=2)en els seus préstecs.
+
+**Per què no convertir els punts de llibre del préstec en la via per descobrir els milers d'històries interessants que els nous autors ens poden explicar?** 
+
+
+Les [Biblioteques de Barcelona](http://www.bcn.cat/biblioteques/), ​​que sempre han estat un exemple d'innovació i voluntat de servei i amb les quals ja havíem treballat molt satisfactòriament en [projectes anteriors](http://seebook-blog.eu/2015/06/03/seebook-indie-arriba-a-22-biblioteques/), han acceptat el nostre repte i seran les primeres que utilitzaran [el punt de llibre Seebook ](http://www.slideshare.net/digitaltangible/marketing-offline-para-escritores-marcapginas-33-de-seebook?qid=46d18ad6-522b-4830-b544-c442b3325e40&v=default&b=&from_search=2)en els seus préstecs.
 
 Com funcionen els nostres punts de llibre?
 
@@ -32,6 +36,7 @@ Existeix una forma menys intrusiva de difondre un llibre? El punt de llibre comp
 I si en acabar la lectura del 33% resulta que t'ha agradat prou per treure'l en préstec de la teva biblioteca mitjançant [eBiblio ](http://catalunya.ebiblio.es/opac/#indice)o bé per comprar-lo en paper o en digital, et facilitem les coses indicant tots els enllaços en els quals pots trobar-ho:
 
 ![4](https://seebookblog.files.wordpress.com/2016/01/4.png)
+
 Ara imagina't que ets **un autor indie o una editorial** que vol donar a conèixer una nova obra. Tots sabem el difícil que és adquirir visibilitat davant d'uns lectors que reben milers d'impactes publicitaris. No seria ideal que els lectors reals tinguessin accés a la informació de la teva obra en el moment exacte que "exerceixen" com a tals?
 
 Gràcies a l'acord amb Biblioteques de Barcelona, ​​la teva obra podrà accedir a molts dels gairebé un milió de lectors "actius" en els més de quatre milions de préstecs que les 40 biblioteques de la ciutat generen anualment.
