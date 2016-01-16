@@ -11,6 +11,28 @@ email: info@seebook.eu
 description: Seebook bloc
 baseurl: /blog-cat
 url: "http://www.seebook.eu"
+disqus_shortname: "seebookblog"
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+
+paginate: 4
+paginate_path: "/page/:num"
+
+comments: true
+
+sass:
+  sass_dir: _scss
+  style: compressed
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+social:
+  twitter: "https://twitter.com/seebook_"
+  facebook: "https://www.facebook.com/SeeBook.eu"
+  youtube: "http://www.youtube.com/subscription_center?gl=CA&amp;hl=en&amp;add_user=seebookeu"

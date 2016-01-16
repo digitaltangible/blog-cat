@@ -1,17 +1,14 @@
-<footer class="site-footer">
 
-  <div class="wrapper">
+<div class="clearfix"></div>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+<footer class="site-footer txt-center">
+  <hr>
+  <h1>Síguenos en:</h1>
+  <ul class="social">
+    {% for item in site.social %}
+      <li><a href="{{ item[1] }}" target="_blank"><image src="{{ site.baseurl }}/images/{{ item[0] }}.png" alt="{{ item[0] }}"></image></a></li>
+    {% endfor %}
+  </ul>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-    </div>
-
-  </div>
-
+  <small>&copy; {{ site.time | date: '%Y' }} Digital Tangible S.L. Todos los derechos reservados.</small>
 </footer>
