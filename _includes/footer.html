@@ -3,12 +3,12 @@
 
 <footer class="site-footer txt-center">
   <hr>
-  <h1>Síguenos en:</h1>
+  <h1>Segueix-nos a:</h1>
   <ul class="social">
     {% for item in site.social %}
       <li><a href="{{ item[1] }}" target="_blank"><image src="{{ site.baseurl }}/images/{{ item[0] }}.png" alt="{{ item[0] }}"></image></a></li>
     {% endfor %}
   </ul>
 
-  <small>&copy; {{ site.time | date: '%Y' }} Digital Tangible S.L. Todos los derechos reservados.</small>
+  <small>&copy; {{ site.time | date: '%Y' }} Digital Tangible S.L. Tots els drets reservats.</small>
 </footer>

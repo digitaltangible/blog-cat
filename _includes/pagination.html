@@ -2,16 +2,16 @@
   <ul>
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li><a class="next" href="{{ "/" | prepend: site.baseurl }}" title="Articles new">&laquo; Prev</a></li>
+        <li><a class="next" href="{{ "/" | prepend: site.baseurl }}" title="Articles nous">&laquo; Prev</a></li>
       {% else %}
-        <li><a class="next" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/" title="Articles new">&laquo; Anterior</a></li>
+        <li><a class="next" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/" title="Articles nous">&laquo; Anterior</a></li>
       {% endif %}
     {% endif %}
 
-    <li><span class="page-number">Pagina {{paginator.page}} de {{paginator.total_pages}}</span></li>
+    <li><span class="page-number">Pàgina {{paginator.page}} de {{paginator.total_pages}}</span></li>
 
     {% if paginator.next_page %}
-      <li><a class="prev" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/" title="Articles old">Siguiente &raquo;</a></li>
+      <li><a class="prev" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/" title="Articles vells">Següent &raquo;</a></li>
     {% endif %}
   </ul>
 </nav>

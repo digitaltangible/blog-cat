@@ -9,7 +9,7 @@
 
     <nav class="js-menu sliding-panel-content">
       <ul>
-        <li><a href="{{ "/" | prepend: site.baseurl }}">Inicio</a></li>
+        <li><a href="{{ "/" | prepend: site.baseurl }}">Inici</a></li>
         <li><a href="http://www.seebook.eu">Seebook Web</a></li>
       </ul>
     </nav>
@@ -20,10 +20,10 @@
     </a>
 
     {% if page.id %}
-      <h1 class="post-title">{{ page.title }}</h1>
+      <h1 class="Títol del post">{{ page.title }}</h1>
       <p class="post-meta">{{ page.date | date: "%d-%m-%Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     {% elsif page.bodyclass == 'page' %}
-      <h1 class="post-title">{{ page.title }}</h1>
+      <h1 class="Titol del post">{{ page.title }}</h1>
     {% else %}
       <h1>{{ site.name }}</h1>
       {% include search.html %}
