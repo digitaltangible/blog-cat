@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -6,10 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Seebook Bloc
+title: Seebook Blog
+name: Seebook Blog
 email: info@seebook.eu
-description: Seebook bloc
-baseurl: /blog-cat
+description: Seebook blog
+keywords: "Seebook"
+baseurl: /blog
 url: "http://www.seebook.eu"
 disqus_shortname: "seebookblog"
 
@@ -21,6 +23,7 @@ paginate: 4
 paginate_path: "/page/:num"
 
 comments: true
+
 
 sass:
   sass_dir: _scss
@@ -36,3 +39,13 @@ social:
   twitter: "https://twitter.com/seebook_"
   facebook: "https://www.facebook.com/SeeBook.eu"
   youtube: "http://www.youtube.com/subscription_center?gl=CA&amp;hl=en&amp;add_user=seebookeu"
+
+prose:
+  rooturl: '_posts'
+  media: 'media'
+
+prose:
+  rooturl: '_posts'
+  media: 'media'
+
+
