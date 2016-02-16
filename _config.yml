@@ -17,7 +17,7 @@ disqus_shortname: "seebookblog"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 4
 paginate_path: "/page/:num"
