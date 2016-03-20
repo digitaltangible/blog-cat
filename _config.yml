@@ -45,4 +45,5 @@ prose:
   rooturl: '_posts'
   media: 'media'
 
+permalink: /:title.html
 

@@ -1,4 +1,5 @@
 ---
+redirect_from: /bibliotecas/2015/06/03/seebook-indie-arriba-a-22-biblioteques.html
 author: digitaltangible
 comments: true
 date: 2015-06-03 09:35:59+00:00

@@ -1,4 +1,5 @@
 ---
+redirect_from: /sin%20categoría/2015/04/16/seebook-estrena-parada-per-sant-jordi.html
 author: digitaltangible
 comments: true
 date: 2015-04-16 12:58:31+00:00

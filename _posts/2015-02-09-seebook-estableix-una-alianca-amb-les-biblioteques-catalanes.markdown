@@ -1,4 +1,5 @@
 ---
+redirect_from: /bibliotecas/2015/02/09/seebook-estableix-una-alianca-amb-les-biblioteques-catalanes.html
 author: digitaltangible
 comments: true
 date: 2015-02-09 11:02:04+00:00

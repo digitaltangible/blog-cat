@@ -1,4 +1,5 @@
 ---
+redirect_from: /sin%20categoría/2016/01/11/com-promoure-als-nous-autors-des-de-les-biblioteques.html
 author: digitaltangible
 comments: true
 date: 2016-01-11 07:00:19+00:00
