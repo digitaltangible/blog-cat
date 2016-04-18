@@ -41,12 +41,14 @@ I pels que tenen poc temps per dedicar a la lectura o que prefereixen altres for
 
 ## Autors i horaris de signatures Sant Jordi 2016
 Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són: 
-11-12 h. – Andreu Vidal Bustamante, Núria Mata
+
+11-12 h. – Andreu Vidal Bustamante, Núria Mata.
 12-13 h. - Raúl Pérez Lumbiarres, Jordi Llovera, Juan Carlos Cabañas
 13-14 h. – Alicia Rodríguez Martos, Jordi Llovera, Albert Riudeubás
 16-17 h. – Ralph Barby
 17-18 h. – Lucho Vázquez Ramos, Albert Riudeubás
 19-20 h. – Lucho Vázquez Ramos, Alicia Rodríguez Martos
+
 T’hi esperem! 
 
-_*Si ets un autor indie i t’agradaria estar signant el teu ebook autopublicat a la nostra parada, fes un cop d’ull a com funcionen els nostres packs Seebook Indie._
+_*Si ets un autor indie i t’agradaria estar signant el teu ebook autopublicat a la nostra parada, fes un cop d’ull a com funcionen els nostres [packs Seebook Indie.](http://www.seebook.eu/indie/ "seebook indie")
