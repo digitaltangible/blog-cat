@@ -26,6 +26,7 @@ Si t’estàs preguntant de què es tracta, aquí van algunes pistes:
 2) Es pot escoltar
 3) Una part del regal va dins d’aquesta capseta que veus a la foto de sota.
 Ja saps el què és? Pensa, pensa…
+
 ![Regal Sant Jordi Seebook 2016]({{site.baseurl}}/media/regalito-seebook-santjordi.jpg){: .center-image }
 
 ## Targetes de regal, audiollibres i el primer ebook amb olor a tinta
