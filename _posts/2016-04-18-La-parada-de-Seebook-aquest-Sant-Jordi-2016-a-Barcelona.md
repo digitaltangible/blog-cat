@@ -1,6 +1,7 @@
 ---
 published: true
 author: Laura Jiménez
+title: "La parada de Seebook aquest Sant Jordi 2016 a Barcelona"
 description: "Aquest any, la parada de Sant Jordi de Seebook estarà al Passeig de Gràcia núm. 91. I tenim una sorpresa preparada!"
 comments: true
 layout: post
@@ -11,13 +12,13 @@ tags:
   - Sant Jordi
   - ebooks per regalar
   - Dia del Llibre
-title: La parada de Seebook aquest Sant Jordi 2016 a Barcelona
+
 ---
 ## Aquest any tenim un regal per tu! 
 
 Milions de roses vermelles, parades de llibres als carrers de la ciutat, senyeres ballant als balcons... Sant Jordi ja gairebé ha arribat i com cada 23 d’abril, Barcelona tornarà a vestir-se de gala per sorprendre als turistes i fer disfrutar als aficionats a la lectura. Per descomptat, nosaltres també hi serem!
 
-![Parada Sant Jordi Seebook]({{site.baseurl}}/media/parada-sant-jordi-seebook.JPG){: .center-image }
+![Parada Sant Jordi Seebook]({{site.baseurl}}/media/parada-sant-jordi-seebook.jpg){: .center-image }
 
 Aquest any, **la parada de Sant Jordi de Seebook estarà al Passeig de Gràcia núm. 91**, fent cantonada amb el carrer Provença. Serà una miqueta més gran que la que vam tenir l’any passat i a més a més... tenim preparat un regal molt especial per tots els que ens vingueu a visitar i feu alguna compra. Així que si no vols arriscar-te a perdre’t-ho, millor que vinguis a veure’ns d’hora!
 
@@ -31,7 +32,7 @@ Si t’estàs preguntant de què es tracta, aquí van algunes pistes:
 
 Ja saps el què és? Pensa, pensa…
 
-![Regal Seebook Sant Jordi]({{site.baseurl}}/media/regalito-seebook-santjordi.jpg.png){: .center-image }
+![Regal Seebook Sant Jordi]({{site.baseurl}}/media/regalito-seebook-santjordi.jpg){: .center-image }
 
 ## Targetes de regal, audiollibres i el primer ebook amb olor a tinta
 
