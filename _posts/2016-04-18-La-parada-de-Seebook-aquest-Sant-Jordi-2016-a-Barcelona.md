@@ -22,9 +22,13 @@ Milions de roses vermelles, parades de llibres als carrers de la ciutat, senyere
 Aquest any, **la parada de Sant Jordi de Seebook estarà al Passeig de Gràcia núm. 91**, fent cantonada amb el carrer Provença. Serà una miqueta més gran que la que vam tenir l’any passat i a més a més... tenim preparat un regal molt especial per tots els que ens vingueu a visitar i feu alguna compra. Així que si no vols arriscar-te a perdre’t-ho, millor que vinguis a veure’ns d’hora!
 
 Si t’estàs preguntant de què es tracta, aquí van algunes pistes:
+
 1) Te a veure amb la commemoració del IV centenari de la mort de Shakespeare i Cervantes.
+
 2) Es pot escoltar
+
 3) Una part del regal va dins d’aquesta capseta que veus a la foto de sota.
+
 Ja saps el què és? Pensa, pensa…
 
 ![Regal Seebook Sant Jordi]({{site.baseurl}}/media/regalito-seebook-santjordi.jpg.png){: .center-image }
