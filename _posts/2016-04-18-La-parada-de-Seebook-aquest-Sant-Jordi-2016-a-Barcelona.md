@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Laura Jiménez
 description: "Aquest any, la parada de Sant Jordi de Seebook estarà al Passeig de Gràcia núm. 91. I tenim una sorpresa preparada!"
 comments: true
@@ -49,5 +49,3 @@ Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són:
 T’hi esperem! 
 
 _*Si ets un autor indie i t’agradaria estar signant el teu ebook autopublicat a la nostra parada, fes un cop d’ull a com funcionen els nostres packs Seebook Indie._
-
-
