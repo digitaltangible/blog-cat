@@ -41,7 +41,7 @@ I pels que tenen poc temps per dedicar a la lectura o que prefereixen altres for
 
 ## Autors i horaris de signatures Sant Jordi 2016
 Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són: 
-11-12 h. – Andreu Vidal Bustamante, Núria Mata.
+11-12 h. – Andreu Vidal Bustamante, Núria Mata
 12-13 h. - Raúl Pérez Lumbiarres, Jordi Llovera, Juan Carlos Cabañas
 13-14 h. – Alicia Rodríguez Martos, Jordi Llovera, Albert Riudeubás
 16-17 h. – Ralph Barby
