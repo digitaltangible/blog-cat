@@ -56,4 +56,4 @@ Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són:
 
 T’hi esperem! 
 
-_*Si ets un autor indie i t’agradaria estar signant el teu ebook autopublicat a la nostra parada, fes un cop d’ull a com funcionen els nostres [packs Seebook Indie.](http://www.seebook.eu/indie/ "seebook indie")
+_*Si ets un autor indie i t’agradaria estar signant el teu ebook autopublicat a la nostra parada, fes un cop d’ull a com funcionen els nostres [packs Seebook Indie.](http://www.seebook.eu/indie/ "seebook indie")_
