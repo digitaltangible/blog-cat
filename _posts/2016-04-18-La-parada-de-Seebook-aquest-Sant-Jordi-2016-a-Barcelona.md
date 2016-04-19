@@ -42,7 +42,7 @@ Per als nostàlgics que enyoren l’olor dels llibres en paper, aquest any tenim
 
 I pels que tenen poc temps per dedicar a la lectura o que prefereixen altres formats, també tindrem **audiollibres tangibles**, presentats en el format de targeta Seebook. Què tenen d’especial respecte a altres audiollibres? Doncs que permeten escoltar el teu llibre en streaming, al mòbil, amb un consum de dades molt baix i sense tenir que enregistrar-te ni descarregar-te ninguna app. Directe de la targeta al mòbil! Tot i que si vols, també pots descarregar-los al PC. En qualsevol cas, és un bon regal de Sant Jordi per tots aquells que vulguin llegir amb les orelles.
 
-![Llibres Sant Jordi]({{site.baseurl}}/media/Titulos-seebook-sant jordi.jpg){: .center-image }
+![Llibres Sant Jordi]({{site.baseurl}}/media/titulos-seebook-santjordi.jpg){: .center-image }
 
 ## Autors i horaris de signatures Sant Jordi 2016
 Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són: 
