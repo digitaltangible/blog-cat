@@ -32,7 +32,9 @@ Si t’estàs preguntant de què es tracta, aquí van algunes pistes:
 
 Ja saps el què és? Pensa, pensa…
 
-![Regal Seebook Sant Jordi]({{site.baseurl}}/media/regalito-seebook-santjordi.jpg){: .center-image }
+![Regal Seebook Sant Jordi]({{site.baseurl}}/media/shakespeare-cervantes-santjordi-seebook-baja.jpg){: .center-image }
+
+Com veus, podràs escollir entre Shakespeare i Cervantes, els dos genis dels que enguany es conmemora el 400 aniversari de la seva mort. És el nostre petit homenatge!
 
 ## Targetes de regal, audiollibres i el primer ebook amb olor a tinta
 
