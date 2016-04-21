@@ -15,7 +15,7 @@ tags:
 - Signatura de llibres electrònics
 ---
 
-Estem esgotats després d'enviar [les nostres novetats](https://www.digitaltangible.com/catalog?n=true) per Sant Jordi a la [nostra creixent xarxa de llibreries](http://www.seebook.eu/librerias.html#0). Mentrestant, ja hi ha més de 150 establiments que venen les nostres targetes de descàrrega de llibres digitals! Aquest augment se'ns ha fet molt perceptible en preparar els enviaments, però ens entusiasma que tants llibreters hagin confiat en Seebook per vendre llibres electrònics de forma tangible i amb marges justos. Esperem que aviat hi hagi molts més.
+Estem esgotats després d'enviar [les nostres novetats](https://www.digitaltangible.com/catalog?n=true) per Sant Jordi a la [nostra creixent xarxa de llibreries](http://www.seebook-shop.eu/es/stores). Mentrestant, ja hi ha més de 150 establiments que venen les nostres targetes de descàrrega de llibres digitals! Aquest augment se'ns ha fet molt perceptible en preparar els enviaments, però ens entusiasma que tants llibreters hagin confiat en Seebook per vendre llibres electrònics de forma tangible i amb marges justos. Esperem que aviat hi hagi molts més.
 
 Aquí teniu un mosaic amb els nostres últims títols, en castellà i català:
 
