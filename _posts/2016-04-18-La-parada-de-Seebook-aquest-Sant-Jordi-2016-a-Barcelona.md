@@ -57,9 +57,9 @@ Els autors que estaran signant a la nostra parada aquest Sant Jordi 2016 són:
 
 16-17 h. – Ralph Barby
 
-17-18 h. – Lucho Vázquez Ramos, Albert Riudeubás
+17-18 h. – Lucho Vázquez Ramos, Albert Riudeubás, Andreu Vidal Bustamante
 
-18-19 h. - Raúl Perez Lumbiarres
+18-19 h. - Raúl Perez Lumbiarres, Lucho Vázquez Ramos
 
 19-20 h. – Alicia Rodríguez Martos, Raúl Perez Lumbiarres
 
