@@ -38,7 +38,7 @@ Com veus, podràs escollir entre Shakespeare i Cervantes, els dos genis dels que
 
 ## Targetes de regal, audiollibres i el primer ebook amb olor a tinta
 
-Què més trobaràs al nostre stand de Sant Jordi? A més a més de nosaltres mateixos, que som la mar de simpàtics, tindrem **targetes Seebook** amb els títols del [nostre catàleg](https://www.digitaltangible.com/catalog "veure el catàleg de Seebook"), per tal que puguis regalar-li un ebook a la teva parella, al teu amic Jordi o a qui tu vulguis. Són la solució perfecta perquè tots els fans de la lectura en format digital puguin tenir el seu llibre de regal i que tu puguis dedicar-se’l, o inclús aconseguir-lo signat per l’autor.
+Què més trobaràs al nostre stand de Sant Jordi? A més a més de nosaltres mateixos, que som la mar de simpàtics, tindrem **targetes Seebook** amb els títols del [nostre catàleg](https://www.seebook-shop.eu/ca/ "veure el catàleg de Seebook"), per tal que puguis regalar-li un ebook a la teva parella, al teu amic Jordi o a qui tu vulguis. Són la solució perfecta perquè tots els fans de la lectura en format digital puguin tenir el seu llibre de regal i que tu puguis dedicar-se’l, o inclús aconseguir-lo signat per l’autor.
 
 Per als nostàlgics que enyoren l’olor dels llibres en paper, aquest any tenim un regal molt original: el **primer ebook amb olor a tinta**! És una edició limitada de El todopoderoso Shikaku, de la japonesa Naoko Tanigawa, que hem preparat especialment pel Dia del Llibre. Si el que vols es sorprendre, aquest seebook te el toc exòtic just que combina la bona literatura amb l’olor a tinta. Ni tan sols trobaràs a faltar el perfum de la rosa de Sant Jordi...
 
