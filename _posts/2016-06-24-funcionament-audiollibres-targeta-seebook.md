@@ -86,7 +86,7 @@ Descomprimeix la carpeta i escolta les pistes de MP3 com vulguis. Fins i tot pot
 
 Les vegades que vulguis. Et sorprèn? Doncs així és.
 
-No obstant, això no vol dir que puguis compartir amb un nombre indefinit de persones la targeta de l'audiollibre Seebook que has adquirit: el nostre sistema et permetrà accedir de forma directa al contingut des de dos dispositius diferents, ja siguin mòbil, tableta o PC
+No obstant, això no vol dir que puguis compartir amb un nombre indefinit de persones la targeta de l'audiollibre Seebook que has adquirit: el nostre sistema et permetrà accedir de forma directa al contingut des de dos dispositius diferents, ja siguin mòbil, tauleta o PC.
 
 Quan intentis accedir al audiollibre des d'un tercer dispositiu et demanarem que introdueixis la teva adreça d'email. Immediatament després rebràs un enllaç de descàrrega en la teva bústia de correu electrònic que et permetrà accedir novament al contingut. 
 
