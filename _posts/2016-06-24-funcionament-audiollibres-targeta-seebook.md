@@ -12,9 +12,9 @@ description: "Seebook ven audiollibres en llibreries: de la targeta directe al m
 ---
 ## Audiollibres Seebook: de la targeta directe al mòbil!
 
-Aquesta primavera hem llançat els nostres audiollibres tangibles en forma de targeta, que teniu a la venda [en totes aquestes llibreries](http://www.seebook-shop.eu/ca/stores "Llibreries en les quals adquirir Seebook") i també online a [la nostra botiga](https://www.seebook-shop.eu/ca/ "Botiga online d'ebooks i audiollibres Seebook"). 
+Aquesta primavera hem fet el llançament dels nostres audiollibres tangibles en forma de targeta, que teniu a la venda [en totes aquestes llibreries](http://www.seebook-shop.eu/ca/stores "Llibreries en les quals adquirir Seebook") i també online a [la nostra botiga](https://www.seebook-shop.eu/ca/ "Botiga online d'ebooks i audiollibres Seebook"). 
 
-![Audiollibre Seebook de El imperio Romano por Pedro López Barja de Quiroga produït per Escuela de Saber]({{site.baseurl}}/media/imperio-romano-escuela-de-saber-baja.jpg)
+![Audiollibre Seebook Les aventures del Pinotxo, amb la veu de Monica Marcos]({{site.baseurl}}/media/aventures-pinotxo-baixa.jpg)
 
 Però molts ens heu preguntat com funcionen exactament els audiollibres Seebook. I aquí us ho expliquem.
 
@@ -28,7 +28,7 @@ Per a això podràs escanejar directament des del mòbil el codi QR que veuràs 
 
 ![Com escanejar el codi QR d'una targeta Seebook]({{site.baseurl}}/media/escaneado-tarjeta-audioguia.jpg)
 
-Si no saps com s'escaneja un QR o no t'has instal·lat encara cap dels [molts lectors gratuïts de QR](http://www.codigos-qr.com/lectores-codigos-qr/ "Lectors gratuïts de QR"), t'oferim també la possibilitat d'introduir un breu codi a la nostra web [www.seebook.eu](http://www.seebook.eu/ca/ "Web de Seebook"):
+Si no saps com s'escaneja un QR o no t'has instal·lat encara cap dels [molts lectors gratuïts de QR](http://www.codigos-qr.com/lectores-codigos-qr/ "Lectors gratuïts de QR"), t'oferim també la possibilitat d'introduir un breu codi al nostre web [www.seebook.eu](http://www.seebook.eu/ca/ "Web de Seebook"):
 
 ![ExLib amb codi alfanumèric per audiollibres Seebook]({{site.baseurl}}/media/exlib-cadena-corta-audiolibro.png){: .center-image }
 
@@ -78,7 +78,7 @@ Busca a la teva carpeta de descàrregues l'audiollibre en M4B que t'has baixat i
     
 ![Com descarregar un audiollibre Seebook en MP3]({{site.baseurl}}/media/pc-descarga-audiolibro-mp3.png)
 
-Prefereixes anar a cap segur i baixar-t'ho en un format amb el qual estàs més familiaritzat, com el MP3? Cap problema! En Seebook podràs descarregar una carpeta comprimida (ZIP) amb totes les pistes de l'audiollibre en MP3, exactament tal com ens ha estat subministrat a nosaltres per l'editorial o la productora de l'audiollibre. 
+Prefereixes baixar-t'ho en un format amb el qual estàs més familiaritzat, com el MP3? Cap problema! En Seebook podràs descarregar una carpeta comprimida (ZIP) amb totes les pistes de l'audiollibre en MP3. 
 
 Descomprimeix la carpeta i escolta les pistes de MP3 com vulguis. Fins i tot pots passar-te-les a un CD!
 
@@ -98,4 +98,4 @@ Sembla just, no?
 
 Així que, no llencis la teva targeta! Mentre la conservis, sempre tindràs accés al teu audiollibre, estiguis on estiguis.
 
-I si després de totes aquestes explicacions vols fer una prova i escoltar la primera hora de _El laberint d'aigua_ d'Eric Frattini, un dels audiollibres dramatitzats de Sonolibro que pots trobar a Seebook, [pots fer-ho en aquest enllaç](https://www.digitaltangible.com/ssb/mail/laberinto16?utm_source=Blog%20funcionamiento%20audiolibros&utm_medium=blog&utm_campaign=Blog%20funcionamiento%20audiolibros "Mostra de l'audiollibre Seebook El laberinto de agua de Eric Frattini"). Segur que t'enganxa!
+I si després de totes aquestes explicacions vols fer una prova i escoltar la primera hora de _Les aventures del Pinotxo_ de Carlo Collodi i amb la veu de Mònica Marcos, un dels audiollibres en català que pots trobar a Seebook, [pots fer-ho en aquest enllaç](https://www.digitaltangible.com/ssb/mail/pinotxo2016?utm_source=Blog%20funcionamiento%20audiolibros&utm_medium=blog&utm_campaign=Blog%20funcionamiento%20audiolibros "Mostra de l'audiollibre Seebook Les aventures del Pinotxo de Carlos Collodi"). Segur que t'agrada!
